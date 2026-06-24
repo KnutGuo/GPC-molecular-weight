@@ -67,7 +67,7 @@ Mn = Σ(w)   / Σ(w / M)
 If you use this code, please cite the archived release (DOI to be added once the repository is archived on Zenodo):
 
 ```
-DOI: 10.5281/zenodo.XXXXXXX
+DOI: 10.5281/zenodo.20825313
 ```
 
 ## License
